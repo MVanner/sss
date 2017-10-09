@@ -1,0 +1,7 @@
+C:\Users\mathi\source\repos\s-nk-et-flagskib\spil\spil\bin\Debug\spil.exe.config
+C:\Users\mathi\source\repos\s-nk-et-flagskib\spil\spil\bin\Debug\spil.exe
+C:\Users\mathi\source\repos\s-nk-et-flagskib\spil\spil\bin\Debug\spil.pdb
+C:\Users\mathi\source\repos\s-nk-et-flagskib\spil\spil\obj\Debug\spil.csprojResolveAssemblyReference.cache
+C:\Users\mathi\source\repos\s-nk-et-flagskib\spil\spil\obj\Debug\spil.csproj.CoreCompileInputs.cache
+C:\Users\mathi\source\repos\s-nk-et-flagskib\spil\spil\obj\Debug\spil.exe
+C:\Users\mathi\source\repos\s-nk-et-flagskib\spil\spil\obj\Debug\spil.pdb
