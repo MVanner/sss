@@ -77,5 +77,6 @@ namespace spil
 
             return resultat;
         }
+        //Jo der
     }
 }
